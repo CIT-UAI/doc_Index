@@ -1,0 +1,11 @@
+# Manuales
+
+[Git](https://cit-uai.github.io/doc_git/)
+
+[R](https://cit-uai.github.io/doc_R/)
+
+[QGIS](https://cit-uai.github.io/doc_QGIS/)
+
+[SQL](https://cit-uai.github.io/doc_SQL/)
+
+[Programación](https://cit-uai.github.io/doc_Programacion/)
